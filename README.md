@@ -1,6 +1,6 @@
 # Team Peryton Budget Tracker
 
-Generates University of Surrey "Purchase Request" forms from a single excel sheet, saving time needing to copy all the details over..
+a little script which generates University of Surrey "Purchase Request" forms from a single excel sheet, saving time needing to copy all the details over..
 
 ![](example_table.png)
 
