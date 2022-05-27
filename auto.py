@@ -113,7 +113,7 @@ for group in pc.groupby(["order group"]):
 
         index += 1
 
-    template_sheet['I26'] = rows['shipping'].sum()
+    template_sheet['I33'] = rows['shipping'].sum()
     
     # set company
     template_sheet['C5'] = row['company']
